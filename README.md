@@ -1,2 +1,0 @@
-# running
-A Parkour game
